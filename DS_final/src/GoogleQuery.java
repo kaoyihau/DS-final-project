@@ -28,11 +28,18 @@ public class GoogleQuery {
 	public String searchKeyword;
 	public String url;
 	public String content;
-	public GoogleQuery(String searchKeyword){
+	public GoogleQuery(){
 		this.searchKeyword = searchKeyword;
-		this.url = "http://www.google.com/search?q="+searchKeyword+"&oe=utf8&num=20";
+		this.url = url;
+	}
+	public String getSearchKeyword() {
+		return searchKeyword;
+	}
+	public void setSearchKeyword(String a) {
+		searchKeyword=a;
 	}
 	private String fetchContent() throws IOException{
+		url="http://www.google.com/search?q="+searchKeyword+"&oe=utf8&num=20";
 		String retVal = "";
 		URL u = new URL(url);
 		URLConnection conn = u.openConnection();
