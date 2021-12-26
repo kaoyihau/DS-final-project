@@ -1,0 +1,40 @@
+23-Dec-2021 21:25:08.663 資訊 [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/8.5.73
+23-Dec-2021 21:25:08.685 資訊 [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Nov 11 2021 13:14:36 UTC
+23-Dec-2021 21:25:08.685 資訊 [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 8.5.73.0
+23-Dec-2021 21:25:08.685 資訊 [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 10
+23-Dec-2021 21:25:08.686 資訊 [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+23-Dec-2021 21:25:08.686 資訊 [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+23-Dec-2021 21:25:08.686 資訊 [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jre1.8.0_311
+23-Dec-2021 21:25:08.687 資訊 [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           1.8.0_311-b11
+23-Dec-2021 21:25:08.687 資訊 [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+23-Dec-2021 21:25:08.687 資訊 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\Users\kaoyi\OneDrive\桌面\大學\1101\1101資料結構\Project\apache-tomcat-8.5.73
+23-Dec-2021 21:25:08.687 資訊 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         C:\Users\kaoyi\OneDrive\桌面\大學\1101\1101資料結構\Project\apache-tomcat-8.5.73
+23-Dec-2021 21:25:08.688 資訊 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=C:\Users\kaoyi\OneDrive\桌面\大學\1101\1101資料結構\Project\apache-tomcat-8.5.73\conf\logging.properties
+23-Dec-2021 21:25:08.689 資訊 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+23-Dec-2021 21:25:08.690 資訊 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+23-Dec-2021 21:25:08.691 資訊 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+23-Dec-2021 21:25:08.691 資訊 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+23-Dec-2021 21:25:08.692 資訊 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=C:\Users\kaoyi\OneDrive\桌面\大學\1101\1101資料結構\Project\apache-tomcat-8.5.73
+23-Dec-2021 21:25:08.693 資訊 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=C:\Users\kaoyi\OneDrive\桌面\大學\1101\1101資料結構\Project\apache-tomcat-8.5.73
+23-Dec-2021 21:25:08.694 資訊 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=C:\Users\kaoyi\OneDrive\桌面\大學\1101\1101資料結構\Project\apache-tomcat-8.5.73\temp
+23-Dec-2021 21:25:08.695 資訊 [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Loaded Apache Tomcat Native library [1.2.31] using APR version [1.7.0].
+23-Dec-2021 21:25:08.695 資訊 [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true], UDS [{4}].
+23-Dec-2021 21:25:08.696 資訊 [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+23-Dec-2021 21:25:08.703 資訊 [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL successfully initialized [OpenSSL 1.1.1l  24 Aug 2021]
+23-Dec-2021 21:25:09.558 資訊 [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+23-Dec-2021 21:25:09.843 資訊 [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+23-Dec-2021 21:25:09.868 資訊 [main] org.apache.catalina.startup.Catalina.load Initialization processed in 2427 ms
+23-Dec-2021 21:25:09.995 資訊 [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+23-Dec-2021 21:25:10.006 資訊 [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/8.5.73]
+23-Dec-2021 21:25:10.024 資訊 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\kaoyi\OneDrive\桌面\大學\1101\1101資料結構\Project\apache-tomcat-8.5.73\webapps\docs]
+23-Dec-2021 21:25:10.324 資訊 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\kaoyi\OneDrive\桌面\大學\1101\1101資料結構\Project\apache-tomcat-8.5.73\webapps\docs] has finished in [299] ms
+23-Dec-2021 21:25:10.334 資訊 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\kaoyi\OneDrive\桌面\大學\1101\1101資料結構\Project\apache-tomcat-8.5.73\webapps\examples]
+23-Dec-2021 21:25:11.062 資訊 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\kaoyi\OneDrive\桌面\大學\1101\1101資料結構\Project\apache-tomcat-8.5.73\webapps\examples] has finished in [728] ms
+23-Dec-2021 21:25:11.073 資訊 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\kaoyi\OneDrive\桌面\大學\1101\1101資料結構\Project\apache-tomcat-8.5.73\webapps\host-manager]
+23-Dec-2021 21:25:11.115 資訊 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\kaoyi\OneDrive\桌面\大學\1101\1101資料結構\Project\apache-tomcat-8.5.73\webapps\host-manager] has finished in [41] ms
+23-Dec-2021 21:25:11.116 資訊 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\kaoyi\OneDrive\桌面\大學\1101\1101資料結構\Project\apache-tomcat-8.5.73\webapps\manager]
+23-Dec-2021 21:25:11.154 資訊 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\kaoyi\OneDrive\桌面\大學\1101\1101資料結構\Project\apache-tomcat-8.5.73\webapps\manager] has finished in [38] ms
+23-Dec-2021 21:25:11.165 資訊 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\kaoyi\OneDrive\桌面\大學\1101\1101資料結構\Project\apache-tomcat-8.5.73\webapps\ROOT]
+23-Dec-2021 21:25:11.195 資訊 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\kaoyi\OneDrive\桌面\大學\1101\1101資料結構\Project\apache-tomcat-8.5.73\webapps\ROOT] has finished in [31] ms
+23-Dec-2021 21:25:11.199 資訊 [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+23-Dec-2021 21:25:11.210 資訊 [main] org.apache.catalina.startup.Catalina.start Server startup in 1339 ms
